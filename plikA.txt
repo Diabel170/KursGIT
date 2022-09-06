@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+
 Fukncjonalnosc A w wersji 2.0
 =======
 Zmiana w testingu. Testy 3.0
+
+Zmiana w testingu. Testy 4.0
 >>>>>>> testing
